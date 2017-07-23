@@ -1,2 +1,2 @@
-# juspay_purescript_learning
-juspay purescript learning repo
+# purescript_learning
+purescript learning repo
